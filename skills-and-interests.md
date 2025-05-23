@@ -1,11 +1,15 @@
 # 🛠️ Skills and Interests
-
-## ✅ Evidence
+  Programming Languages: Java, JavaScript, HTML   
+. Software Development: Mobile and web app development, debugging, and optimization   
+. IT & Technical Skills: Software troubleshooting, typing, photocopying   
+. Collaboration & Communication: Teamwork, problem-solving, classroom management   
+. Education Support: Lesson preparation, tutoring, homework assistance  
+                                                                                                                                                           
+## Evidence
 
 - Skills assessment report completed on 18 March 2025  
-- Interest profiler results *(upload later to `artefacts/skills-results.pdf` and `artefacts/screenshots/interest-profiler.png`)*
-
-## 🧠 Reflection (STAR Technique)
+- Interest profiler results 
+## Reflection (STAR Technique)
 
 **Situation:**  
 During the Work Readiness Training, I completed a skills and interest self-assessment.
